@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FacebookLogin_Register_Page</string>
+    <string name="login_button">SE CONNECTER</string>
+    <string name="createAccoun_textView">Créer un compte ?</string>
+    <string name="exemple_gmail_com">exemple@gmail.com</string>
+    <string name="mot_de_passe">mot de passe</string>
+    <string name="needHelp_textView">Besoin d\'aide ?</string>
+    <string name="needHelp">Besoin d\'aide ?</string>
+    <string name="decription_logo">facebook_logo</string>
+</resources>
